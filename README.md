@@ -8,7 +8,7 @@
 </a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
-
+<!-- 
 My name is Gourab and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,4 +46,4 @@ My name is Gourab and I"m a Software Engineer who is passionate about building t
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
