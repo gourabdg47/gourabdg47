@@ -12,7 +12,7 @@
 ## :computer: Technologies I Love
 * Django
 * Deep Learning
-* Backend Development
+* Backend Web Development
 * API development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact">
