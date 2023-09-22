@@ -30,6 +30,7 @@
  	user = 'Gourab Dasgupta'
 		current_work = 'Writing code'
 		hobbies = [
+				'Electric Guitar',
 				'MMA',
 				'Watching Series',
 				'Travelling'
