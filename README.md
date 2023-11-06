@@ -1,4 +1,4 @@
-## Hey, there 
+## Hey, there :wave:
 <!-- <img src="" width="28px" height="28px"> -->
 
 <h1>Welcome to my Digital World..</h1> 
