@@ -1,4 +1,4 @@
-## Hey, there  <!-- <img src="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z" width="28px" height="28px"> --!>
+## Hey, there <img src="[https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z](https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif)" width="28px" height="28px">
 
 <h1>Welcome to my Digital World..</h1> 
 
