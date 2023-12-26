@@ -28,9 +28,10 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Gourab Dasgupta'
-		current_work = 'Writing code'
-		hobbies = [
+	def __init__(self):
+ 		self.user = 'Gourab Dasgupta'
+		self.current_work = 'Writing code'
+		self.hobbies = [
 				'Electric Guitar',
 				'MMA',
 				'Watching Series',
@@ -38,12 +39,12 @@
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
-		return Bangalore_India()
+	def getCity(self):
+		return self.Bangalore_India()
 	
-	def Ambitions():
-		LearnRussian()
-		CreateSkyNet()
+	def Ambitions(self):
+		self.LearnRussian()
+		self.CreateSkyNet()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
