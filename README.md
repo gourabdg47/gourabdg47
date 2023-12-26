@@ -55,7 +55,7 @@ class WhoAmI:
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1KErXf9UTN-fAhmUBhH2YcFlpX3VxOqOS/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too !! :grimacing: )
   - Any questions, ask me [here](https://github.com/gourabdg47/gourabdg47/issues)
 
 ![Gourab's github stats](https://github-readme-stats.vercel.app/api?username=Gourabdg47&show_icons=true&hide=[%22issues%22])
