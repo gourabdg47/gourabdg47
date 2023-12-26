@@ -50,7 +50,7 @@ class WhoAmI:
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
+ * Classified projects !!
  * I'm currently working on 🔭 building **Rest APIs with Python** and working up on polishing my skills 🌱 in **Competitive Programming**
  
 ## Other Stuff
