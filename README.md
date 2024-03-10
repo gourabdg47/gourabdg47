@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-gourab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/) 
 [![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com)
-[![Github Pages](https://img.shields.io/badge/glitched%20reality-121013?style=for-the-badge&logo=github&logoColor=white)](https://gourabdg47.github.io/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
