@@ -6,6 +6,7 @@
 <img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-gourab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/) [![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com)
+[[Glitched REality](https://gourabdg47.github.io/)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
 <div style="text-align: right">Welcome the glitches; they compose the melody of a futuristic realm. Script the disorder, mold tomorrow ... </div>
