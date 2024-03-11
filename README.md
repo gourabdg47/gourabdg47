@@ -20,7 +20,6 @@
 * Backend Web Development
 * API development
 
-<img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact">
 
 <!-- ## Programming Languages
