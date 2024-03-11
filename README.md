@@ -3,7 +3,7 @@
 
 <h2>Welcome to my Digital World...</h2> 
 
-<img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/>
+<!-- <img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-gourab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/)
 [![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com)
@@ -20,6 +20,7 @@
 * Backend Web Development
 * API development
 
+<img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact">
 
 <!-- ## Programming Languages
