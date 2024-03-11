@@ -13,6 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
 <div style="text-align: right">Welcome the glitches; they compose the melody of a futuristic realm. Script the disorder, mold tomorrow ... </div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact" align='right'>
 
 ## :computer: Technologies I Love
 * Django
@@ -20,7 +21,7 @@
 * Backend Web Development
 * API development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact" align='right'>
+
  
  ## Who am I?
  ```python
