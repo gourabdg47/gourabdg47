@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
-<div style="text-align: right">Welcome the glitches; they compose the melody of a futuristic realm. Script the disorder, mold tomorrow ... </div>
+<div style="text-align: right">Welcome to the glitches; they compose the melody of a futuristic realm. Script the disorder, mold tomorrow ... </div>
 
 ## :computer: Technologies I Love
 * Django
