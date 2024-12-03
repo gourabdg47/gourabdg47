@@ -51,7 +51,7 @@ class WhoAmI:
  * I'm currently working on 🔭 building **Rest APIs with Python** and working up on polishing my skills 🌱 in **Competitive Programming**
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1KErXf9UTN-fAhmUBhH2YcFlpX3VxOqOS/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1hwDBif61wt-FZrIs33ZT0nYFP5uODF4F/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too !! :grimacing: )
   - Any questions, ask me [here](https://github.com/gourabdg47/gourabdg47/issues)
 
