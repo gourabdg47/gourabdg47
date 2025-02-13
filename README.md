@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
-<div style="text-align: right">Welcome to the glitches; they compose the melody of a futuristic realm. Script the disorder, mold tomorrow ... </div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4174083" style='border:none;'></iframe>
 
 ## :computer: Technologies I Love
 * Django
