@@ -1,59 +1,54 @@
-## Hey, there :wave:
-<!-- <img src="" width="28px" height="28px"> -->
+## Hey there, Cyber Sentinel! :wave:
 
-<h2>Welcome to my Digital World...</h2> 
+<h2>Welcome to my Cyber Realm</h2>
 
-<!-- <img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/> -->
+> "Securing the digital frontier, one exploit at a time."  
+> — In a world of bits and bytes, every line of code is a line of defense.
 
-[![Linkedin Badge](https://img.shields.io/badge/-gourab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/)
-[![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-green?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/gourabdg) \
-[![Github Pages](https://img.shields.io/badge/Singularity-121013?style=for-the-badge&logo=github&logoColor=white)](https://gourabdg47.github.io/)
-[![Github Pages](https://img.shields.io/badge/Formacraft-61a5f2?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://formacraft.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-GourabDasgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourabdasgupta/)](https://www.linkedin.com/in/gourabdasgupta/)
+[![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-green?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/gourabdg)
+[![TryHackMe Status](https://img.shields.io/badge/TryHackMe-Active-brightgreen?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
+---
 
-## :computer: Technologies I Love
-* Django
-* Deep Learning
-* Backend Web Development
-* API development
+## :computer: Technologies in My Arsenal
+- **Cyber Defense:** Firewalls, IDS/IPS, SIEM, honeypots  
+- **Programming & Scripting:** Python, Bash, PowerShell  
+- **Web Security:** OWASP ZAP, Burp Suite, SQLMap  
+- **Cloud & DevSecOps:** AWS, Docker, Kubernetes, Terraform  
+- **Penetration Testing:** Metasploit, Nmap, Wireshark  
+- **OSINT & Recon:** TheHarvester, Maltego, Recon-ng
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact">
- 
- ## Who am I?
- ```python
-class WhoAmI:
-	def __init__(self):
-		self.user = 'Gourab Dasgupta'
-		self.current_work = 'Writing code'
-		self.hobbies = [
-				'Electric Guitar',
-				'MMA',
-				'Watching Series',
-				'Travelling'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity(self):
-		return self.Bangalore_India()
-	
-	def Ambitions(self):
-		self.LearnRussian()
-		self.CreateSkyNet()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * Classified projects !!
- * I'm currently working on 🔭 building **Rest APIs with Python** and working up on polishing my skills 🌱 in **Competitive Programming**
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1hwDBif61wt-FZrIs33ZT0nYFP5uODF4F/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too !! :grimacing: )
-  - Any questions, ask me [here](https://github.com/gourabdg47/gourabdg47/issues)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabdg47&layout=compact" alt="Top Languages" />
 
-![Gourab's github stats](https://github-readme-stats.vercel.app/api?username=Gourabdg47&show_icons=true&hide=[%22issues%22])
- 
- 
+---
+
+## Who Am I? :spy:
+```python
+class CyberSentinel:
+    def __init__(self):
+        self.name = 'Gourab Dasgupta'
+        self.mission = 'Securing cyberspace'
+        self.skills = [
+            'Ethical Hacking',
+            'Threat Intelligence',
+            'Incident Response',
+            'Competitive Programming'
+        ]
+    
+    def current_focus(self):
+        return 'Building robust REST APIs with Python & mastering red team techniques'
+    
+    def future_goals(self):
+        self.learn_russian()
+        self.launch_skynet()  # Just a bit of fun!
+        # ...and many more daring cyber adventures.
+
+    # Dummy methods for creative effect
+    def learn_russian(self): pass
+    def launch_skynet(self): pass
