@@ -13,9 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4174083" style='border:none;'></iframe>
-[TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4174083 "@embed")
-
 ## :computer: Technologies I Love
 * Django
 * Deep Learning
