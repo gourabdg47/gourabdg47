@@ -5,7 +5,7 @@
 
 <!-- <img src = 'https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp' alt = 'Awesome Matrix Code' align='right'/> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-gourab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/gourabdasgupta/))](https://www.linkedin.com/in/gourabdasgupta/)
 [![Gmail Badge](https://img.shields.io/badge/-gourabofficial26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gourabofficial26@gmail.com)](mailto:gourabofficial26@gmail.com) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-green?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/gourabdg) \
 [![Github Pages](https://img.shields.io/badge/Singularity-121013?style=for-the-badge&logo=github&logoColor=white)](https://gourabdg47.github.io/)
 [![Github Pages](https://img.shields.io/badge/Formacraft-61a5f2?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://formacraft.com/)
